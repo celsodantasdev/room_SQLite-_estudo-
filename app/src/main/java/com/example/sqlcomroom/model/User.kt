@@ -5,5 +5,5 @@ data class User (
     var nome: String,
     var sobrenome: String,
     var idade: Int
-        ){
+){
 }
